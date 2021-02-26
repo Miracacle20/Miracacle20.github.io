@@ -1,0 +1,33 @@
+/*------------------------------------------------------------------
+    [Thumbnails]
+------------------------------------------------------------------*/
+
+.thumbnail{
+	border: none;
+}
+
+
+
+ul.thumbnails.myclass{
+  list-style: none;
+  padding: 20px;
+  border: none;
+}
+
+
+
+ul.thumbnails.myclass li{
+	padding: 20px;
+	margin-top: 20px;
+}
+
+
+
+.fa-telegram{
+	color: #000;
+}
+
+.fa-envelope{
+	color: #000;
+}
+
